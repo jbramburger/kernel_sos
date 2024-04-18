@@ -11,5 +11,4 @@ All scripts require YALMIP and MOSEK to run. Both packages can be download for f
 - MOSEK: https://www.mosek.com/downloads/
 
 ## **Repository Contents**
-This repository contains MATLAB script to reproduce the results for the examples in Section 3 of the paper. Precisely, the scripts perform the following tasks:
-- 
+This repository contains MATLAB script to reproduce the results for the examples in Section 6 of the paper. Precisely, the scripts perform the following tasks:
